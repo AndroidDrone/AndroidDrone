@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**AndroidDrone/AndroidDrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Professional Summary
 
 With over 11+ years of experience in Mobile Engineering, I have successfully delivered cutting-edge applications for Fortune 500 companies across diverse industries, including enterprise, healthcare, security, and IoT-based metering solutions. My expertise extends to both online and offline applications, providing robust solutions that meet the unique needs of each domain.
