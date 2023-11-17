@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **AndroidDrone/AndroidDrone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Professional Summary
@@ -37,4 +36,3 @@ With over 11+ years of experience in Mobile Engineering, I have successfully del
 
 - Proven ability to navigate complex projects for Fortune 500 companies, ensuring the delivery of high-quality software solutions.
 
--->
